@@ -1,0 +1,37 @@
+MNDA	myeloid cell nuclear differentiation antigen
+FCGR2A	Fc fragment of IgG receptor IIa
+CSF3R	colony stimulating factor 3 receptor
+S100A12	S100 calcium binding protein A12
+S100A8	S100 calcium binding protein A8
+PTGS2	prostaglandin-endoperoxide synthase 2
+LRRK2	leucine rich repeat kinase 2
+LYZ	lysozyme
+CLEC7A	C-type lectin domain family 7 member A
+PLBD1	phospholipase B domain containing 1
+PYGL	phosphorylase, glycogen, liver
+IGHM///IGHV3-48///IGHV3-69-1	immunoglobulin heavy constant mu///immunoglobulin heavy variable 3-48///immunoglobulin heavy variable 3-69-1 (pseudogene)
+SCFV///IGLJ3///IGHV3-23///IGHV4-31///IGHM///IGHG2///IGHG1///IGHA1///SCFV///C14orf99///IGK///IGKV3-20///IGHV3-23///IGHV3-30///IGHV3-48///IGHV3-75///IGHV3-69-1///IGHV3OR16-7	single-chain Fv fragment///immunoglobulin lambda joining 3///immunoglobulin heavy variable 3-23///immunoglobulin heavy variable 4-31///immunoglobulin heavy constant mu///immunoglobulin heavy constant gamma 2 (G2m marker)///immunoglobulin heavy constant gamma 1 (G1m marker)///immunoglobulin heavy constant alpha 1///single-chain Fv fragment///uncharacterized LOC317730///immunoglobulin kappa locus///immunoglobulin kappa variable 3-20///immunoglobulin heavy variable 3-23///immunoglobulin heavy variable 3-30///immunoglobulin heavy variable 3-48///immunoglobulin heavy variable 3-75 (pseudogene)///immunoglobulin heavy variable 3-69-1 (pseudogene)///immunoglobulin heavy variable 3/OR16-7 (pseudogene)
+AQP9	aquaporin 9
+LPCAT2	lysophosphatidylcholine acyltransferase 2
+FPR2	formyl peptide receptor 2
+ADGRE3	adhesion G protein-coupled receptor E3
+	
+FPR1	formyl peptide receptor 1
+CXCR2	C-X-C motif chemokine receptor 2
+CXCR1	C-X-C motif chemokine receptor 1
+TRAT1	T cell receptor associated transmembrane adaptor 1
+P2RY13	purinergic receptor P2Y13
+CXCL8	C-X-C motif chemokine ligand 8
+JCHAIN	joining chain of multimeric IgA and IgM
+IL7R	interleukin 7 receptor
+VCAN	versican
+CD14	CD14 molecule
+TREM1	triggering receptor expressed on myeloid cells 1
+NCF1C///NCF1B///NCF1	neutrophil cytosolic factor 1C pseudogene///neutrophil cytosolic factor 1B pseudogene///neutrophil cytosolic factor 1
+CD36	CD36 molecule
+MGAM	maltase-glucoamylase
+STEAP4	STEAP4 metalloreductase
+TLR4	toll like receptor 4
+CYBB	cytochrome b-245 beta chain
+IL13RA1	interleukin 13 receptor subunit alpha 1
+DDX3Y	DEAD-box helicase 3, Y-linked
